@@ -52,6 +52,15 @@ export default function Projects() {
         </p>
       </div>
 
+      <div className="card">
+        <h3>I'm Alert – Company Website</h3>
+        <p><strong>Tech:</strong> Webflow, Native Javascript, Native CSS, Native JQuery </p>
+        <p>
+          An animated website for American client for food safety training.
+          I was responsible for developing the website from A to Z with all it's pages and details.
+        </p>
+      </div>
+
     </main>
   );
 }
